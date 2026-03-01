@@ -68,7 +68,7 @@ Search that Object URl again to see the different
 . Real experience with AWS S3 configuration and the policy
 
 # Project Files
-```json
+```tree
 AWS-Demo-Misconfiguration-1:S3-Public-Bucket/
 ├── 01_Start_to_creat_Bucket.png
 ├── 02_Bucket_public_settings.png
