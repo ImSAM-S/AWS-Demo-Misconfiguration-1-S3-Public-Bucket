@@ -68,6 +68,7 @@ Search that Object URl again to see the different
 . Real experience with AWS S3 configuration and the policy
 
 # Project Files
+```json
 AWS-Demo-Misconfiguration-1:S3-Public-Bucket/
 ├── 01_Start_to_creat_Bucket.png
 ├── 02_Bucket_public_settings.png
@@ -78,7 +79,7 @@ AWS-Demo-Misconfiguration-1:S3-Public-Bucket/
 ├── 07_Get_access_denied.png
 ├── 08_Last_view_bucket.png
 ├── README.md
-├── secret.txt
-
+└── secret.txt
+```
 # Author
 ImSAM-S
