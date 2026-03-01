@@ -9,10 +9,10 @@ This scenario illustrates one of the most common cloud security pitfalls: exposi
 # LAB Steps
 ## 1. Create S3 Bucket With Public Misconfiguration
 
-From the start of being creat a bucket we have this screen
+From the start of being creat a bucket, we have this screen
 ![image alt](https://github.com/ImSAM-S/AWS-Demo-Misconfiguration-1-S3-Public-Bucket/blob/427745ac4a5e8045f5d6bfd829873d932a1db142/01_Start_to_creat_Bucket.png)
 
-In setting of bucket we do not block all all public access
+In setting of bucket we do not tick "block all public access".
 ![image alt](https://github.com/ImSAM-S/AWS-Demo-Misconfiguration-1-S3-Public-Bucket/blob/5f611cc739813477eb6ba6612b48a7ddc4b5f503/02_Bucket_public_settings.png)
 
 ## 2. Upload Sensitive File
