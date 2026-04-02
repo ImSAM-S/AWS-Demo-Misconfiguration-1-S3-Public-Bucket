@@ -31,7 +31,7 @@ In your bucket, find 'Permissions' and bucket policy in there to edit this in:
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::project-misconfig-demo/*"
+      "Resource": "arn:aws:s3:::project-misconfig-demo-public-bucket/*"
     }
   ]
 }
