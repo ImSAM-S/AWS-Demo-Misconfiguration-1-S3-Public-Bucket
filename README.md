@@ -1,5 +1,5 @@
 # AWS Demo Misconfiguration 1: S3 Public Bucket
-Simulates a real-world AWS S3 security misconfiguration, where an S3 bucket is made public—exposing sensitive data to the internet.And it demonstrates both the vulnerability and the remediation.
+Simulates a real-world AWS S3 security misconfiguration, where an S3 bucket is made public—exposing sensitive data to the internet. And it demonstrates both the vulnerability and the remediation.
 
 ## Scenario
 An Amazon S3 bucket was deliberately misconfigured with public access enabled. Within this bucket, a file named secret.txt containing simulated sensitive credentials was uploaded. Because of the misconfiguration, the file became openly accessible to anyone on the internet without authentication.
